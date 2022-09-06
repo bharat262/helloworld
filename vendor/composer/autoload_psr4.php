@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Jayanthee365\\HelloComposer\\' => array($baseDir . '/src'),
+    'Jayanthe365\\Helloword\\' => array($baseDir . '/src'),
 );

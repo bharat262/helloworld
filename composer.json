@@ -1,17 +1,16 @@
 {
-    "name": "jayanthee365/hello-composer",
-    "autoload": {
-        "psr-4": {
-            "Jayanthee365\\HelloComposer\\": "src/"
-        }
-    },
-    "description": "A simple hello world composer package",
+    "name": "jayanthe365/helloword",
+    "description": "testing library",
     "type": "library",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jayanthe365\\Helloword\\": "src/"
+        }
+    },
     "authors": [
         {
-            "name": "Jay",
-            "email": "bharat@shopflo.co"
+            "name": "Jayanthi"
         }
     ],
     "minimum-stability": "stable",

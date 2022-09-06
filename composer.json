@@ -5,11 +5,15 @@
             "Jayanthee365\\HelloComposer\\": "src/"
         }
     },
+    "description": "A simple hello world composer package",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Jay",
             "email": "bharat@shopflo.co"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }

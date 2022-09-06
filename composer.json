@@ -1,0 +1,15 @@
+{
+    "name": "hp/hello-composer",
+    "autoload": {
+        "psr-4": {
+            "Hp\\HelloComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jay",
+            "email": "bharat@shopflo.co"
+        }
+    ],
+    "require": {}
+}
